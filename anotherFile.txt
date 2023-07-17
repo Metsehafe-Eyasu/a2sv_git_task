@@ -1,1 +1,2 @@
 here is new file created from a branch
+this is a second line
